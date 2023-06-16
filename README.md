@@ -2,7 +2,7 @@
 
 ## Language: ES
 
-Este repositorio contiene los scripts y documentos generados por mí durante mi trabajo como técnico operador de microscopía de fuerza atómica en el **Instituto de Investigaciones Biológicas Clemente Estable (IIBCE)**.
+Este repositorio contiene los scripts y documentos generados por mí durante mi trabajo como técnico operador de microscopía de fuerza atómica (AFM) en el **Instituto de Investigaciones Biológicas Clemente Estable (IIBCE)**.
 
 Los scripts fueron escritos en **Matlab** y **R** para analizar las curvas de fuerza-indentación obtenidas con el microscopio, calcular propiedades mecánicas como el módulo de Young (elasticidad/rigidez) y el trabajo de adhesión de acuerdo a distintos modelos matemáticos para indentadores de distintas geometrías, y realizar un estudio estadístico de los resultados.
 
