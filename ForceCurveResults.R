@@ -6,23 +6,23 @@
 
 ## CONTROL GROUP DATA
 
-E_control = archivo$V1 #kPa (Reemplazar "archivo" por nombre del archivo de modulo de Young)
+E_control = E_control$V1 #kPa (Reemplazar "E_control" por nombre del archivo de modulo de Young)
 E_control_mean <- mean(E_control) #media
 E_control_deviation <- sd(E_control) #standard deviation
 
-A_control = archivo$V1 #kPa (Reemplazar "archivo" por nombre del archivo de trabajo de adhesion)
-A_control_mean <- mean(E_control) #media
-A_control_deviation <- sd(E_control) #standard deviation
+A_control = A_control$V1 #J/m2 (Reemplazar "A_control" por nombre del archivo de trabajo de adhesion)
+A_control_mean <- mean(A_control) #media
+A_control_deviation <- sd(A_control) #standard deviation
 
 ## MODIFIED GROUP DATA
 
-E_modified = archivo$V1 #kPa (Reemplazar "archivo" por nombre del archivo de modulo de Young)
+E_modified = E_modified$V1 #kPa (Reemplazar "E_modified" por nombre del archivo de modulo de Young)
 E_modified_mean <- mean(E_modified) #media
 E_modified_deviation <- sd(E_modified) #standard deviation
 
-A_modified = archivo$V1 #kPa (Reemplazar "archivo" por nombre del archivo de trabajo de adhesion)
-A_modified_mean <- mean(E_modified) #media
-A_modified_deviation <- sd(E_modified) #standard deviation
+A_modified = A_modified$V1 #J/m2 (Reemplazar "A_modified" por nombre del archivo de trabajo de adhesion)
+A_modified_mean <- mean(A_modified) #media
+A_modified_deviation <- sd(A_modified) #standard deviation
 
 
 ## HISTOGRAM

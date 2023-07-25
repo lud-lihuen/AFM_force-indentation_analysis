@@ -1,0 +1,18 @@
+--- MATLAB ---
+
+AutoAnalysis --- Analiza todas las curvas de fuerza de una carpeta, encuentra automáticamente el punto de contacto y calcula módulo de Young y trabajo de Adhesión.
+
+ForceCurveAnalysis --- Analiza todas las curvas de fuerza de una carpeta, permite seleccionar manualmente el punto de contacto y calcula módulo de Young y trabajo de Adhesión.
+
+ForceCurveComparison --- Grafica dos curvas de fuerza en un mismo par de ejes.
+
+StatisticalAnalysisNanoindentation --- Hace el análisis estadístico de los resultados de las curvas de fuerza procesadas.
+
+StatisticalAnalysisQNM --- Hace el análisis estadístico de los datos extraídos de mapas QNM.
+
+
+--- R ---
+
+ForceCurveResults --- Hace el análisis estadístico de los resultados de las curvas de fuerza procesadas.
+
+HistogramQNM --- Hace el análisis estadístico de los datos extraídos de mapas QNM.
